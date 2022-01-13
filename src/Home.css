@@ -1,0 +1,8 @@
+.inputs-wrapper {
+    width: 50%;
+    }
+    @media only screen and (max-width: 768px) {
+    .inputs-wrapper {
+    width: 100%;
+    }
+    }
